@@ -4,12 +4,12 @@ Este repositório contém a resolução dos exercícios de Redes Neurais Artific
 
 ## Estrutura do Repositório
 
-- `Aula 01/`: Perceptron;
-- `Aula 02/`: Adaline;
-- `Aula 03/`: PMC;
-- `Aula 04/`: PMC classificação;
-- `Aula 05/`: PMC variante no tempo;
-- `Aula 06/`: Áutoencode.
+- `Aula 01`: Perceptron;
+- `Aula 02`: Adaline;
+- `Aula 03`: PMC;
+- `Aula 04`: PMC classificação;
+- `Aula 05`: PMC variante no tempo;
+- `Aula 06`: Áutoencode.
 
 
 ## Como Usar
