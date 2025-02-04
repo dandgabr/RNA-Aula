@@ -16,7 +16,7 @@ Este repositório contém a resolução dos exercícios de Redes Neurais Artific
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/RNA.git](https://github.com/dandgabr/RNA-Aula/
+    git clone https://github.com/dandgabr/RNA-Aula/
     ```
 2. Navegue até o diretório do repositório:
     ```bash
